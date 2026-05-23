@@ -1,0 +1,6 @@
+{
+  "name": "Formulir Glassmorphism Modern",
+  "description": "Formulir input modern dengan style anak muda, desain glassmorphisme, gradien cerah, dan preview kartu profil yang interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
