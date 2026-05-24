@@ -533,9 +533,6 @@ function testAuthorize() {
               className="w-14 h-14 object-contain rounded-2xl bg-white/10 border border-white/20 p-1.5 shadow-md"
               referrerPolicy="no-referrer"
             />
-            <div className="absolute -bottom-1 -right-1 bg-white/20 border border-white/30 backdrop-blur-md rounded-lg p-1">
-              <Users className="w-3.5 h-3.5 text-white" />
-            </div>
           </div>
           <div>
             <h2 className="text-xl sm:text-2xl font-black flex items-center gap-2">
